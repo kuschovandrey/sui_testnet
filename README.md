@@ -1,0 +1,2 @@
+# sui_testnet
+sui
