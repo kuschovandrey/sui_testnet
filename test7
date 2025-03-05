@@ -1,0 +1,3 @@
+test-fault-proofs: pre-test
+	$(go_test) $(go_test_flags) ./faultproofs
+.PHONY: test-faultproofs
